@@ -11,7 +11,9 @@ Further Description can be found in the following link ( http://www-inst.eecs.be
 
 By
 
-Peter Wakahiu Njenga
-Heerad Farkhoor
-Jan Wu
+Peter Wakahiu Njenga,
+Heerad Farkhoor,
+Jan Wu, &
 Tiffany Lee
+
+Disclaimer: This project is a combination of code written by cs61-BL staff and the people listed above.
